@@ -3,7 +3,7 @@ import itertools
 import os
 
 # Belirtilen konumdaki ZIP dosyasına erişin
-zip_folder = "C:/Users/obeno/OneDrive/Desktop/Yeni klasör (2)"  # ZIP dosyasının bulunduğu konumu buraya yazın
+zip_folder = "C:/Users/file"  # ZIP dosyasının bulunduğu konumu buraya yazın
 zip_file_name = "example.zip"  # Kırılacak zip dosyasının adını buraya yazın
 zip_file_path = os.path.join(zip_folder, zip_file_name)
 
